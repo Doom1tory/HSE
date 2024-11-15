@@ -58,13 +58,15 @@
 # Задача: Создайте список из пяти чисел и выведите третий элемент списка.
 # Решение:
 # python
-numbers = [1, 2, 3, 4, 5]
-print(numbers[2])
+# numbers = [1, 2, 3, 4, 5]
+# print(numbers[2])
 
+# fruits = ['apples', 'hurma', 'tangerines', 'peach', 'watermelon']
+# print(fruits[4])
 
-fruits = [bananas, apples, hurma, tangerines, peach, watermelon]
-longfruits = len(fruits)
-print(fruits[5])
+# fruits = ['apples', 'hurma', 'tangerines', 'peach', 'watermelon']
+# fruits[1] = 'pivo'
+# print(fruits)
 # Дополнительные задачи:
 # Создайте список из ваших любимых фруктов и выведите последний элемент.
 # Измените второй элемент списка на новое значение.
